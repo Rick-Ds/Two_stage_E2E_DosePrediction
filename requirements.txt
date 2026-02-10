@@ -1,0 +1,10 @@
+# Core numerical + I/O
+numpy
+pandas
+tqdm
+nibabel
+SimpleITK
+
+# Deep learning
+torch
+tensorboard
